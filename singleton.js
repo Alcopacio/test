@@ -17,7 +17,7 @@ var mySingleton = (function(){
   
   }
 return {
-getSingleton:getSingleton;
+getSingleton:getSingleton
 }
 
 })();
